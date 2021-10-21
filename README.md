@@ -23,12 +23,12 @@
 
 ### - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-#### According to the information it seems that the best time to launch campaigns is in May, while the worst time to launch a campaign would be in December. This can be shown on the following graph: ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/41974323/138204105-4e66efac-b4e0-4b8f-a3dd-bff0118ceb8b.png)
+#### According to the information it seems that the best time to launch campaigns is in May, while the worst time to launch a campaign would be in December. This can be shown on the following graph: [Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/41974323/138204105-4e66efac-b4e0-4b8f-a3dd-bff0118ceb8b.png)
 
 
 ### - What can you conclude about the Outcomes based on Goals?
 
-#### Theres seems to be a couple goal amounts that are more successful then others. According to the information given, any goals less then $1000 and in between $35,000 to $44,999 have had the most success. In terms of poor performing goals anything $45,000 and up has the lowest success percentages followed by $25,000 to $35,000. This can be seen on the following graph: ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/41974323/138204061-c0fd79fe-ee30-484c-a94f-1efee34600f4.png)
+#### Theres seems to be a couple goal amounts that are more successful then others. According to the information given, any goals less then $1000 and in between $35,000 to $44,999 have had the most success. In terms of poor performing goals anything $45,000 and up has the lowest success percentages followed by $25,000 to $35,000. This can be seen on the following graph: [Outcomes_vs_Goals](https://user-images.githubusercontent.com/41974323/138204061-c0fd79fe-ee30-484c-a94f-1efee34600f4.png)
 
 
 ### - What are some limitations of this dataset?
